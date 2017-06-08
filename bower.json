@@ -1,0 +1,23 @@
+{
+  "name": "ag-griddemo",
+  "authors": [
+    "Brett Mosley <brettmosley@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ag-grid": "^9.1.0",
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1"
+  }
+}
